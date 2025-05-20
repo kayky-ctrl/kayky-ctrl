@@ -43,9 +43,6 @@
 ### 📊 GitHub Stats
 ![Kayky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kayky-ctrl&show_icons=true&theme=tokyonight)
 
-### 📈 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=kayky-ctrl&theme=tokyonight)
-
 ---
 
 ### 👀 Visitantes
