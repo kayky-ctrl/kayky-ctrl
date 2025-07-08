@@ -6,7 +6,7 @@
 </p>
 
 💡 **Visão:** Transformar ideias em soluções tecnológicas impactantes  
-🎓 **Formação:** Ensino Médio Técnico em Desenvolvimento de Sistemas (cursando)  
+🎓 **Formação:** Ensino Médio (cursando) & Ensino Técnico em Desenvolvimento de Sistemas (cursando)  
 🌱 **Foco Atual:** Aprimorar habilidades em desenvolvimento web full-stack  
 🏆 **Objetivo:** Tornar-me um desenvolvedor sênior até 2027
 
