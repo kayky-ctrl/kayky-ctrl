@@ -13,7 +13,7 @@
 ## 🛠 Stack Tecnológica
 
 ### 💻 Linguagens & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,php,laravel,mysql,py,cpp,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,bootstrap,nodejs,php,laravel,mysql,py,cpp,&perline=6)](https://skillicons.dev)
 
 ### 🛠 Ferramentas & Plataformas
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,raspberrypi,arduino,linux,&perline=6)](https://skillicons.dev)
