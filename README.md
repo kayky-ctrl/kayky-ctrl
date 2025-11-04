@@ -1,6 +1,6 @@
 <!-- Banner animado SVG (personalize um no https://svgeneration.com/ ou use uma imagem impactante) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&color=10C0FE&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+Kayky%21+%F0%9F%91%8B;Full+Stack+Developer;Construindo+projetos+inovadores" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&color=10C0FE&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+Kayky%21+%F0%9F%91%8B;Full+Stack+Developer+apaixonado+por+Tecnologia;Construindo+projetos+para+um+mundo+mais+conectado." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -84,6 +84,28 @@
       </td>
       <td>
         <img src="https://img.shields.io/badge/finalizado-blue?logo=github" height="20"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kayky-ctrl/CoderChallengeBonus"><b>Coder Challenge Bonus</b></a></td>
+      <td>Desafios de programação para aprimorar lógica e habilidades em algoritmos. Ideal para quem busca evolução constante.</td>
+      <td>
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/-Desafios-FFD43B?style=flat" height="20"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/em%20andamento-yellow?logo=github" height="20"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kayky-ctrl/ProjetoFenix"><b>Projeto Fênix</b></a></td>
+      <td>Sistema inovador para automação ou controle, com tecnologias modernas e arquitetura robusta.</td>
+      <td>
+        <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/-Automação-007ACC?style=flat" height="20"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/em%20andamento-yellow?logo=github" height="20"/>
       </td>
     </tr>
   </tbody>
