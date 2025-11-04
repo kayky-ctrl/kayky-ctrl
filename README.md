@@ -1,42 +1,124 @@
-## 👨‍💻 Sobre Mim
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38C6F7&width=435&lines=Desenvolvedor+Full-Stack+Emergente;Estudante+de+Programação+%F0%9F%93%9A;Entusiasta+de+Tecnologia+%F0%9F%92%BB)](https://git.io/typing-svg)
-
+<!-- Banner animado SVG (personalize um no https://svgeneration.com/ ou use uma imagem impactante) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kayky-ctrl&theme=onedark&row=1&column=6" alt="kayky-ctrl" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&color=10C0FE&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+Kayky%21+%F0%9F%91%8B;Full+Stack+Developer+apaixonado+por+Tecnologia;Construindo+projetos+para+um+mundo+mais+conectado." alt="Typing SVG" />
 </p>
 
-💡 **Visão:** Transformar ideias em soluções tecnológicas impactantes  
-🎓 **Formação:** Ensino Médio (cursando) & Ensino Técnico em Desenvolvimento de Sistemas (cursando)  
-🌱 **Foco Atual:** Aprimorar habilidades em desenvolvimento web full-stack  
-🏆 **Objetivo:** Tornar-me um desenvolvedor sênior até 2027
+<p align="center">
+  <img src="https://img.shields.io/github/followers/kayky-ctrl?color=236ad3&label=Seguidores+no+GitHub&logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/kayky-ctrl?color=ebd600&label=Estrelas&logo=github&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=kayky-ctrl&label=Visualiza%C3%A7%C3%A3o+de+Perfil&color=10C0FE&style=for-the-badge" />
+</p>
 
-## 🛠 Stack Tecnológica
+---
 
-### 💻 Linguagens & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,nodejs,php,laravel,mysql,py,cpp,&perline=6)](https://skillicons.dev)
-
-### 🛠 Ferramentas & Plataformas
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,raspberrypi,arduino,linux,&perline=6)](https://skillicons.dev)
-
-## 🏆 Projetos Destaque
-
-| Projeto | Descrição | Stack | Status |
-|---------|-----------|-------|--------|
-| **[Reconhecimento Facial](https://github.com/kayky-ctrl/ReconhecimentoFacialRaspberry)** | Sistema de reconhecimento facial para Raspberry Pi com OpenCV | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white) | ✅ Completo |
-| **[Cidade Conectada](https://github.com/kayky-ctrl/CidadeConectada)** | Plataforma IoT para gestão urbana inteligente | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ✅ Completo  |
-| **[Portfólio Figma](https://kayky-ctrl.github.io/portfolioFigma/)** | Portfólio responsivo baseado em design Figma | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ✅ Completo |
-
-## 📊 Estatísticas GitHub
+<h2 align="center">👨‍💻 Sobre Mim</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img height="220" src="https://media.giphy.com/media/26xBsSSykrhM2zL6Y/giphy.gif" alt="coding" />
 </div>
 
-## 🌐 Conecte-se Comigo
+<table>
+  <tr>
+    <td>
+      <strong>💡 Visão:</strong> Transformar ideias em soluções tecnológicas impactantes.<br>
+      <strong>🎓 Formação:</strong> Ensino Médio (cursando) & Técnico em Desenvolvimento de Sistemas (cursando).<br>
+      <strong>🌱 Foco Atual:</strong> Web Full Stack, IoT & Automação.<br>
+      <strong>🏆 Objetivo:</strong> Senior Developer até <b>2027</b>! 🚀
+    </td>
+  </tr>
+</table>
 
-[![Gmail](https://img.shields.io/badge/-kaykyrdepaula@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kaykyrdepaula@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kayky-de-paula)
+---
+
+<h2 align="center">🛠️ Stack & Ferramentas</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,laravel,py,cpp,linux,mysql,mongodb,git,github,vscode,figma,raspberrypi,arduino,docker&perline=9" alt="My Skills"/>
+</p>
+
+---
+
+<h2 align="center">🚀 Projetos Destaque</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Projeto</th>
+      <th>Descrição</th>
+      <th>Stack</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/kayky-ctrl/ReconhecimentoFacialRaspberry"><b>Reconhecimento Facial</b></a></td>
+      <td>Sistema de reconhecimento facial para Raspberry Pi usando OpenCV.</td>
+      <td>
+        <img src="https://img.shields.io/badge/-Python-34495E?logo=python&logoColor=FFD43B" height="20"/>
+        <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=raspberrypi&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" height="20"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/em%20andamento-yellow?logo=github" height="20"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kayky-ctrl/CidadeConectada"><b>Cidade Conectada</b></a></td>
+      <td>IoT para gestão urbana e cidades inteligentes.</td>
+      <td>
+        <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" height="20"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/mvp-green?logo=github" height="20"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://kayky-ctrl.github.io/portfolioFigma/"><b>Portfólio Figma</b></a></td>
+      <td>Portfólio responsivo a partir de layout no Figma.</td>
+      <td>
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black" height="20"/>
+        <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" height="20"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/finalizado-blue?logo=github" height="20"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h2 align="center">📊 Estatísticas GitHub</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kayky-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="kayky-ctrl" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kayky-ctrl&theme=dracula&row=1&column=6"/>
+</p>
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=kayky-ctrl&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayky-ctrl&layout=compact&theme=midnight-purple&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="800" />
+</div>
+
+---
+
+<h2 align="center">🌐 Vamos Conectar?</h2>
+
+<div align="center">
+  <a href="mailto:kaykyrdepaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kayky-de-paula"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/contador"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://kayky-ctrl.github.io/portfolioFigma/"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=10C0FE&width=435&lines=Sempre+em+busca+do+próximo+nível!+🚀" />
 </p>
