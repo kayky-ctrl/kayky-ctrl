@@ -1,6 +1,6 @@
 <!-- Banner animado SVG (personalize um no https://svgeneration.com/ ou use uma imagem impactante) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&color=10C0FE&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+Kayky%21+%F0%9F%91%8B;Full+Stack+Developer+apaixonado+por+Tecnologia;Construindo+projetos+para+um+mundo+mais+conectado." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&color=10C0FE&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+Kayky%21+%F0%9F%91%8B;Full+Stack+Developer;Construindo+projetos+inovadores." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@
 <div align="center">
   <a href="mailto:kaykyrdepaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/kayky-de-paula"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/contador"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/ntkayky"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://kayky-ctrl.github.io/portfolioFigma/"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 
