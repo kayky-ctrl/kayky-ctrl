@@ -14,7 +14,7 @@
 <h2 align="center">👨‍💻 Sobre Mim</h2>
 
 <div align="center">
-  <img height="220" src="https://media.giphy.com/media/26xBsSSykrhM2zL6Y/giphy.gif" alt="coding" />
+  <img height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 </div>
 
 <table>
