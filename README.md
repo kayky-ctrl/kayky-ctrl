@@ -1,6 +1,6 @@
 <!-- Banner animado SVG (personalize um no https://svgeneration.com/ ou use uma imagem impactante) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&color=10C0FE&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+Kayky%21+%F0%9F%91%8B;Full+Stack+Developer+apaixonado+por+Tecnologia;Construindo+projetos+para+um+mundo+mais+conectado." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&color=10C0FE&center=true&vCenter=true&width=640&lines=Olá%2C+eu+sou+o+Kayky%21+%F0%9F%91%8B;Full+Stack+Developer;Construindo+projetos+inovadores" alt="Typing SVG" />
 </p>
 
 <p align="center">
