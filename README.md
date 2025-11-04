@@ -144,3 +144,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=10C0FE&width=435&lines=Sempre+em+busca+do+próximo+nível!+🚀" />
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
