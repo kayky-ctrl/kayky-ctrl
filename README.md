@@ -71,11 +71,15 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kayky-ctrl&repo=ReconhecimentoFacialRaspberry&theme=tokyonight" /><br>
-      <i>Visão Computacional na Robótica</i>
+      <a href="https://github.com/kayky-ctrl/ReconhecimentoFacialRaspberry">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kayky-ctrl&repo=ReconhecimentoFacialRaspberry&theme=tokyonight" />
+      </a><br>
+      <i>Visão Computacional & IoT</i>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kayky-ctrl&repo=ProjetoFenix&theme=tokyonight" /><br>
+      <a href="https://github.com/kayky-ctrl/ProjetoFenix">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kayky-ctrl&repo=ProjetoFenix&theme=tokyonight" />
+      </a><br>
       <i>Core de Automação</i>
     </td>
   </tr>
@@ -90,22 +94,30 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kayky-ctrl&repo=ReconhecimentoFacialRaspberry&theme=tokyonight" /><br>
-      <i>Visão Computacional & IoT</i>
+      <a href="https://github.com/kayky-ctrl/GestaodePedidos.Api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kayky-ctrl&repo=GestaodePedidos.Api&theme=tokyonight" />
+      </a><br>
+      <i>Backend & API Architecture (C#)</i>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kayky-ctrl&repo=CidadeConectada&theme=tokyonight" /><br>
-      <i>Smart Cities Platform</i>
+      <a href="https://github.com/kayky-ctrl/SHOPGEST">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kayky-ctrl&repo=SHOPGEST&theme=tokyonight" />
+      </a><br>
+      <i>E-commerce & Business Logic</i>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kayky-ctrl&repo=porfolio&theme=tokyonight" /><br>
-      <i>Professional Showcase</i>
+      <a href="https://github.com/kayky-ctrl/CoderChallengeBonus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kayky-ctrl&repo=CoderChallengeBonus&theme=tokyonight" />
+      </a><br>
+      <i>Competitive Programming & Logic</i>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kayky-ctrl&repo=ProjetoFenix&theme=tokyonight" /><br>
-      <i>Automation Core</i>
+      <a href="https://github.com/kayky-ctrl/ReconhecimentoFacialRaspberry">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kayky-ctrl&repo=ReconhecimentoFacialRaspberry&theme=tokyonight" />
+      </a><br>
+      <i>Smart Robotics Solutions</i>
     </td>
   </tr>
 </table>
@@ -153,5 +165,5 @@
 </p>
 
 <p align="center">
-  <i>Última atualização: Dezembro 2025 • Criado com ☕ e determinação.</i>
+  <i>Última atualização: Março 2026 • Criado com ☕ e determinação.</i>
 </p>
