@@ -30,7 +30,7 @@
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://linkedin.com/in/kayky-de-paula">
+<a href="https://linkedin.com/in/kaykydepaula-dev">
 <img src="https://img.icons8.com/fluency/96/linkedin.png" width="80px"/><br>
 <sub><b>LinkedIn</b></sub><br>
 <sub>Kayky de Paula</sub>
