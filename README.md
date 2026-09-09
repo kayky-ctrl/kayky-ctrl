@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kayky%20de%20Paula&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Developer%20|%20Robotics%20Leader%20|%20ADS%20Student&descSize=20&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kayky%20de%20Paula&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Developer%20|%20ADS%20Student&descSize=20&descAlignY=55"/>
 </div>
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10C0FE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Robotics+Team+Leader+🤖;C%23+%7C+Laravel+%7C+Python;Automation+%26+IoT+⚡;Problem+Solver+💡;Backend+Specialist+🧠;Tech+Enthusiast+💻" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10C0FE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;C%23+%7C+Laravel+%7C+Python;Automation+%26+IoT+⚡;Problem+Solver+💡;Backend+Specialist+🧠;Tech+Enthusiast+💻" />
   </h1>
 </div>
 
