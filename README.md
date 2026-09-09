@@ -187,13 +187,11 @@ Automação Inteligente • Arquitetura de Sistemas • Integração Hardware + 
 
 ## 😄 Fun Zone
 
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-
-🎧 Codando ao som de Lo-fi + foco total
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kazaki-Dev0/Kazaki-Dev0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kazaki-Dev0/Kazaki-Dev0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kazaki-Dev0/Kazaki-Dev0/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
